@@ -1,4 +1,4 @@
-# This repo is for docker free class lab repo.
+# Collaborative Repo
 
 Instructions here :
 https://github.com/Angelszm/docker-free-class-for-myanmar
@@ -93,10 +93,10 @@ Cherry Pick
 - git tag 
 - git history 
 
-# Ref : 
+## Ref : 
 -  https://www.atlassian.com/git/tutorials/using-branches
 
-# After Class: 
+## After Class: 
 Learn from  
 - https://gitimmersion.com/lab_01.html
 
