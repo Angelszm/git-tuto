@@ -1,4 +1,4 @@
-# git-tuto
-for docker class
+# This repo is for docker free class collab repo created by Angel!. 
 
-- git update
+
+https://github.com/Angelszm/docker-free-class-for-myanmar
