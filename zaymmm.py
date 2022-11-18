@@ -3,6 +3,6 @@ print("Branch Merge")
 
 print("Git Stash")
 print("Git Tuto")
-Testing 1,2,3,4 
+#Testing 1,2,3,4 // removed unnecessary code
 
 print("Testing 1, 2, 3")
