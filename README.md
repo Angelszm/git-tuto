@@ -127,7 +127,7 @@ Cherry Pick to another branch
 ```
 
 
-## GitLab Landing Page: 
+## GitHub Landing Page: 
 - Create repo with username/<username>.github.io
 - Pages
 - Custom Domain
