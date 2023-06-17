@@ -1,5 +1,15 @@
 # Collaborative Repo
 
+
+## Recommend to use Some GIT GUI Desktop Tool 
+- GitHub Desktop (https://desktop.github.com/)
+- Sublime Merge (https://www.sublimemerge.com/)
+- SourceTree (https://www.sourcetreeapp.com/) 
+
+## Ref : 
+- https://www.atlassian.com/git/tutorials/using-branches
+- https://gitimmersion.com/lab_01.html
+
 Instructions here :
 https://github.com/Angelszm/docker-free-class-for-myanmar
 
@@ -95,6 +105,7 @@ Cherry Pick to another branch
 - git tag -a <tag-new-version> -m "New Version Updated"
 - git push origin <tag-new-version>
 - git merge --abort
+- git commit -S -m "" https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits
 
 
 ## Example : Merge main branch to another feature branch 
@@ -105,17 +116,6 @@ Cherry Pick to another branch
 - git merge main
 - git commit -m "Merge latest main changes into feature"
 - git push origin release/uat
-
-
-## Ref : 
--  https://www.atlassian.com/git/tutorials/using-branches
-- https://gitimmersion.com/lab_01.html
-
-
-## Recommend to use Some GIT GUI Desktop Tool 
-- GitHub Desktop (https://desktop.github.com/)
-- Sublime Merge (https://www.sublimemerge.com/)
-- SourceTree (https://www.sourcetreeapp.com/) 
 
 ## New Learning: 
 ```
