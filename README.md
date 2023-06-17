@@ -79,7 +79,7 @@ Deleting
 - git branch --all
 
 
-Cherry Pick 
+Cherry Pick to another branch
 - git checkout <branch name> 
 - git pull origin <branch name> 
 - git checkout -b cherry-pick/cp
@@ -91,13 +91,24 @@ Cherry Pick
 - git revert
 - git conflicts 
 - git tag 
-- git history 
+- git history
+- git tag -a <tag-new-version> -m "New Version Updated"
+- git push origin <tag-new-version>
+- git merge --abort
+
+
+## Example : Merge main branch to another feature branch 
+- git checkout main
+- git pull
+- git checkout -b feature
+- git checkout feature
+- git merge main
+- git commit -m "Merge latest main changes into feature"
+- git push origin release/uat
+
 
 ## Ref : 
 -  https://www.atlassian.com/git/tutorials/using-branches
-
-## After Class: 
-Learn from  
 - https://gitimmersion.com/lab_01.html
 
 
