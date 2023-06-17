@@ -101,7 +101,12 @@ Learn from
 - https://gitimmersion.com/lab_01.html
 
 
-## New: 
+## Recommend to use Some GIT GUI Desktop Tool 
+- GitHub Desktop (https://desktop.github.com/)
+- Sublime Merge (https://www.sublimemerge.com/)
+- SourceTree (https://www.sourcetreeapp.com/) 
+
+## New Learning: 
 ```
 - git rm --cached (keeps local)
 - git rm <file>
@@ -115,3 +120,5 @@ Learn from
 - Create repo with username/<username>.github.io
 - Pages
 - Custom Domain
+
+
