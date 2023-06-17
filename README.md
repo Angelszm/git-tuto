@@ -87,7 +87,7 @@ Cherry Pick
 - git push -u origin cherry-pick/cp
 
 
-## Session 3 - Last day of Class (May be End of November)
+## Session 3 - Last day of Class
 - git revert
 - git conflicts 
 - git tag 
@@ -100,3 +100,18 @@ Cherry Pick
 Learn from  
 - https://gitimmersion.com/lab_01.html
 
+
+## New: 
+```
+- git rm --cached (keeps local)
+- git rm <file>
+- git rm -f <file>
+- git rm --cached -r <directory>
+- git rm -r <directory>
+```
+
+
+## GitLab Landing Page: 
+- Create repo with username/<username>.github.io
+- Pages
+- Custom Domain
